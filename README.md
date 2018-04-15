@@ -1,1 +1,1 @@
-## Sample application for spring2/cxf2/java6 webservice and client
+## Sample application for spring3/cxf2/java6 webservice and client
